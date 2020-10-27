@@ -17,7 +17,6 @@ namespace MortgageCalculator
         protected void list_Click(object sender, EventArgs e)
         {
             IDataHelper io = new IOHelper();
-            data.Text = io.GetAllMortgages();
             Mortgages.Text = io.GetAllMortgages();
         }
     }

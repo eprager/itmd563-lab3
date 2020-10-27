@@ -1,8 +1,1 @@
-$8.16
-$8.17
-With a principal of $1000, duration of 30 years and a interest rate of 0.25%, the monthly loan payment amount is $2.88
-
-With a principal of $777, duration of 15 years and a interest rate of 5%, the monthly loan payment amount is $6.14
-
-With a principal of $1000, duration of 30 years, and an interest rate of 0.25%, the monthly loan payment amount is $2.88.
-With a principal of $5555, duration of 15 years, and an interest rate of 5%, the monthly loan payment amount is $43.93.
+With a principal of $1000, duration of 15 years, and an interest rate of 0.25%, the monthly loan payment amount is $5.66.

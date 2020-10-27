@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MortgageCalculator", "MortgageCalculator\MortgageCalculator.csproj", "{55FD7920-7F76-48EB-B547-E6EC0DF04EAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{0E3D7198-B926-4F42-AB15-B2492F33F413}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{55FD7920-7F76-48EB-B547-E6EC0DF04EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55FD7920-7F76-48EB-B547-E6EC0DF04EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55FD7920-7F76-48EB-B547-E6EC0DF04EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E3D7198-B926-4F42-AB15-B2492F33F413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3D7198-B926-4F42-AB15-B2492F33F413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3D7198-B926-4F42-AB15-B2492F33F413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3D7198-B926-4F42-AB15-B2492F33F413}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
